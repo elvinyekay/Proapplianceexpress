@@ -1,9 +1,9 @@
-import './App.css';
+import Routing from './Routing';
 
 function App() {
   return (
     <>
-      <h1>Pro Appliance Express</h1>
+      <Routing />
     </>
   );
 }
